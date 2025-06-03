@@ -1,1 +1,2 @@
 Hello Git aaa bbb
+今日は大雨です。
